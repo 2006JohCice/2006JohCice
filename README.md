@@ -1,159 +1,392 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=LƯỜNG%20VIỆT%20NHẬT&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=62&descSize=16&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:21262d&text=LƯỜNG%20VIỆT%20NHẬT&fontColor=58A6FF&fontSize=42&fontWeight=700&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20WEBGIS%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=61&descSize=15&descColor=c9d1d9"/>
 
-</div>
+<a href="https://github.com/2006JohCice">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vi%E1%BB%87t+Nh%E1%BA%ADt+%F0%9F%91%8B;Full-Stack+Web+Developer;WebGIS+%26+Realtime+Application+Builder;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+</a>
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=IT+Student+%40+HUNRE+University;Full-Stack+Web+Developer;WebGIS+%26+Realtime+App+Builder;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=2006JohCice&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+# 👨‍💻 About Me
 
-##  Xin chào, tôi là Nhật
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-name     : Lường Việt Nhật
-username : 2006JohCice
-from     : Thanh Hóa → Hà Nội 
-school   : HUNRE University
-major    : Information Technology
-focus    : Full-Stack Web & GIS Development
-vibe     : Ship it, then improve it 
+name       : Lường Việt Nhật
+username   : 2006JohCice
+education  : HUNRE University
+major      : Information Technology
+location   : Hà Nội, Việt Nam
+
+focus:
+  - Full-Stack Web Development
+  - WebGIS & Spatial Applications
+  - Realtime Applications
+  - Backend & Database Systems
+
+currently:
+  - Building full-stack applications
+  - Learning advanced backend architecture
+  - Improving system design & clean code
+
+mindset:
+  - Build
+  - Break
+  - Fix
+  - Learn
+  - Repeat
 ```
 
 <br clear="right"/>
 
+> 🚀 **I enjoy turning ideas into real applications.**
+> I mainly work with modern JavaScript technologies and have a particular interest in **Full-Stack Development, WebGIS and realtime systems**.
+
 ---
 
-##  Tech Stack
+# 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+Building modern web applications with:
+
+* ReactJS
+* Node.js
+* Express.js
+* REST APIs
+* Authentication
+* Realtime communication
+* Database integration
+
+</td>
+
+<td width="50%">
+
+### 🗺️ WebGIS Development
+
+Working with spatial technologies:
+
+* OpenLayers
+* GeoServer
+* PostGIS
+* PostgreSQL
+* QGIS
+* WMS / spatial data
+* Interactive maps
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Realtime Applications
+
+Interested in building applications with:
+
+* Socket.IO
+* WebSocket
+* Realtime chat
+* Online presence
+* Typing indicators
+* Realtime events
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Backend & Database
+
+Experience with:
+
+* Node.js
+* Express
+* PostgreSQL
+* PostGIS
+* MySQL
+* REST API
+* Authentication systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,php,java,python,cpp,c&theme=dark" />
 
-**Database & Tools**
+<br><br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🚀 Frontend
 
-**GIS & Spatial**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&theme=dark" />
 
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-4A90D9?style=flat-square&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<br><br>
+
+### 🗺️ GIS
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+
+<br>
+
+`OpenLayers`   `GeoServer`   `PostGIS`   `QGIS`   `WMS`
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### [Chatbox](https://github.com/2006JohCice/Chatbox)
-Ứng dụng chat realtime với đăng nhập/đăng ký, xác thực OTP qua email, chat riêng & nhóm, chỉ báo đang nhập.
+## 💬 Chatbox
 
-**Stack:** `ReactJS` `Node.js` `Express` `Socket.IO`
+Realtime chat application with authentication and modern messaging features.
+
+**Features**
+
+* 🔐 Login / Register
+* 📧 Email OTP verification
+* 💬 Private messaging
+* 👥 Group chat
+* ✍️ Typing indicator
+* ⚡ Realtime communication
+
+**Stack**
+
+`ReactJS` `Node.js` `Express` `Socket.IO`
+
+<br>
+
+<a href="https://github.com/2006JohCice/Chatbox">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [GIS](https://github.com/2006JohCice/GIS)
-Ứng dụng WebGIS tích hợp bản đồ tương tác, xử lý dữ liệu không gian và hiển thị WMS layers.
+## 🗺️ WebGIS
 
-**Stack:** `JavaScript` `PHP` `PostgreSQL/PostGIS` `GeoServer` `OpenLayers`
+Interactive WebGIS application for visualizing and working with spatial data.
+
+**Features**
+
+* 🌍 Interactive map
+* 🗺️ WMS layers
+* 🔎 Spatial search
+* 📍 Feature popup
+* 🎨 Layer visualization
+* 🛰️ GeoServer integration
+
+**Stack**
+
+`JavaScript` `PostgreSQL` `PostGIS` `GeoServer` `OpenLayers`
+
+<br>
+
+<a href="https://github.com/2006JohCice/GIS">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### [Oder](https://github.com/2006JohCice/Oder)
-Hệ thống quản lý đơn hàng đầy đủ: đăng nhập, OTP, tìm kiếm, thêm/sửa/xóa/xem dữ liệu.
+## 🛒 Oder
 
-**Stack:** `JavaScript` `Node.js` `Express`
+Order management system with authentication and data management.
+
+**Features**
+
+* 🔐 Authentication
+* 📧 OTP verification
+* 🔎 Search
+* ➕ Create
+* ✏️ Update
+* 🗑️ Delete
+* 📋 Data management
+
+**Stack**
+
+`JavaScript` `Node.js` `Express`
+
+<br>
+
+<a href="https://github.com/2006JohCice/Oder">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### [BuyGameShop](https://github.com/2006JohCice/BuyGameShop)
-Frontend cho cửa hàng game với giao diện responsive, hiện đại và trải nghiệm người dùng tốt.
+## 🎮 BuyGameShop
 
-**Stack:** `JavaScript` `HTML` `CSS`
+Modern frontend for an online game store.
+
+**Highlights**
+
+* 🎨 Modern UI
+* 📱 Responsive design
+* 🛍️ Product interface
+* ⚡ Interactive components
+* 🧩 Clean frontend structure
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/2006JohCice/BuyGameShop">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2006JohCice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&rank_icon=github"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2006JohCice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=2006JohCice&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006JohCice&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=2006JohCice&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9944&currStreakLabel=58a6ff"/>
-
-</div>
-
----
-
-## Activity Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2006JohCice&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff9944"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=2006JohCice&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9944&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
 ---
 
-## Liên hệ
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luong.viet.nhat.349100)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@review-k6)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2006JohCice)
-
- Cầu Diễn, Kiều Mai, Hà Nội &nbsp;|&nbsp;  HUNRE University &nbsp;|&nbsp; 🇻🇳 Việt Nam
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2006JohCice&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"/>
 
 </div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[✓] Build full-stack web applications
+[✓] Work with REST APIs
+[✓] Build realtime applications
+[✓] Work with PostgreSQL / PostGIS
+[✓] Build WebGIS applications
+
+[ ] Improve system design
+[ ] Learn Docker & deployment
+[ ] Improve backend architecture
+[ ] Contribute to open-source projects
+[ ] Build larger production-ready applications
+```
+
+---
+
+# 🌱 Currently Learning
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=2006JohCice&color=58a6ff&style=flat-square&label=Profile+Views)
+`System Design` • `Docker` • `Advanced Node.js` • `PostgreSQL` • `WebGIS` • `Clean Architecture`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/2006JohCice">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/luong.viet.nhat.349100">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@review-k6">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br><br>
+
+📍 **Hà Nội, Việt Nam**
+🎓 **HUNRE University — Information Technology**
+
+<br>
+
+### 💬 *"Always learning. Always building. Always improving."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,50:161b22,100:21262d&section=footer"/>
+
+</div>
