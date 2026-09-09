@@ -57,7 +57,7 @@ mindset:
 <tr>
 <td width="50%">
 
-### 🌐 Full-Stack Development
+### Full-Stack Development
 
 Building modern web applications with:
 
@@ -73,7 +73,7 @@ Building modern web applications with:
 
 <td width="50%">
 
-### 🗺️ WebGIS Development
+### WebGIS Development
 
 Working with spatial technologies:
 
@@ -91,7 +91,7 @@ Working with spatial technologies:
 <tr>
 <td width="50%">
 
-### ⚡ Realtime Applications
+### Realtime Applications
 
 Interested in building applications with:
 
@@ -106,7 +106,7 @@ Interested in building applications with:
 
 <td width="50%">
 
-### 🗄️ Backend & Database
+### Backend & Database
 
 Experience with:
 
@@ -124,35 +124,35 @@ Experience with:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,php,java,python,cpp,c&theme=dark" />
 
 <br><br>
 
-### 🚀 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&theme=dark" />
 
 <br><br>
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
 
 <br><br>
 
-### 🗄️ Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 
 <br><br>
 
-### 🗺️ GIS
+### GIS
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 
@@ -162,7 +162,7 @@ Experience with:
 
 <br><br>
 
-### 🔧 Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
@@ -170,7 +170,7 @@ Experience with:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -180,18 +180,18 @@ Experience with:
 
 <td width="50%" valign="top">
 
-## 💬 Chatbox
+## Chatbox
 
 Realtime chat application with authentication and modern messaging features.
 
 **Features**
 
-* 🔐 Login / Register
-* 📧 Email OTP verification
-* 💬 Private messaging
-* 👥 Group chat
-* ✍️ Typing indicator
-* ⚡ Realtime communication
+* Login / Register
+* Email OTP verification
+* Private messaging
+* Group chat
+* Typing indicator
+* Realtime communication
 
 **Stack**
 
@@ -207,18 +207,18 @@ Realtime chat application with authentication and modern messaging features.
 
 <td width="50%" valign="top">
 
-## 🗺️ WebGIS
+## WebGIS
 
 Interactive WebGIS application for visualizing and working with spatial data.
 
 **Features**
 
-* 🌍 Interactive map
-* 🗺️ WMS layers
-* 🔎 Spatial search
-* 📍 Feature popup
-* 🎨 Layer visualization
-* 🛰️ GeoServer integration
+* Interactive map
+* WMS layers
+* Spatial search
+* Feature popup
+* Layer visualization
+* GeoServer integration
 
 **Stack**
 
@@ -238,19 +238,19 @@ Interactive WebGIS application for visualizing and working with spatial data.
 
 <td width="50%" valign="top">
 
-## 🛒 Oder
+##  Oder
 
 Order management system with authentication and data management.
 
 **Features**
 
-* 🔐 Authentication
-* 📧 OTP verification
-* 🔎 Search
-* ➕ Create
-* ✏️ Update
-* 🗑️ Delete
-* 📋 Data management
+* Authentication
+* OTP verification
+* Search
+* Create
+* Update
+* Delete
+* Data management
 
 **Stack**
 
@@ -266,17 +266,17 @@ Order management system with authentication and data management.
 
 <td width="50%" valign="top">
 
-## 🎮 BuyGameShop
+## BuyGameShop
 
 Modern frontend for an online game store.
 
 **Highlights**
 
-* 🎨 Modern UI
-* 📱 Responsive design
-* 🛍️ Product interface
-* ⚡ Interactive components
-* 🧩 Clean frontend structure
+* Modern UI
+* Responsive design
+* Product interface
+* Interactive components
+* Clean frontend structure
 
 **Stack**
 
@@ -298,7 +298,7 @@ Modern frontend for an online game store.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -318,7 +318,7 @@ Modern frontend for an online game store.
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -328,7 +328,7 @@ Modern frontend for an online game store.
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 ```text
 [✓] Build full-stack web applications
@@ -346,7 +346,7 @@ Modern frontend for an online game store.
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 <div align="center">
 
@@ -356,7 +356,7 @@ Modern frontend for an online game store.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -374,12 +374,12 @@ Modern frontend for an online game store.
 
 <br><br>
 
-📍 **Hà Nội, Việt Nam**
-🎓 **HUNRE University — Information Technology**
+ **Hà Nội, Việt Nam**
+ **HUNRE University — Information Technology**
 
 <br>
 
-### 💬 *"Always learning. Always building. Always improving."*
+###  *"Always learning. Always building. Always improving."*
 
 </div>
 
